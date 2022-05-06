@@ -1,0 +1,18 @@
+#navbar{
+    flex-direction: column;
+}
+#home{
+    height: 280px;
+}
+#home::before{
+    height: 110%;
+}
+#home p{
+    font-size: 13px;
+}
+#services{
+    flex-direction: column;
+}
+#home h1{
+    font-size: 28px;
+}
